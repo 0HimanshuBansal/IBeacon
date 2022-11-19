@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1076557964186",
+    "project_id": "ibeacon-monitor",
+    "storage_bucket": "ibeacon-monitor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076557964186:android:2f511bacc56730040ad023",
+        "android_client_info": {
+          "package_name": "com.example.ibeacon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076557964186-lprbso6j7tmfg30vvf4g5pd1n0u54ui3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNftlgJXlEIXf-VE3gMJRdTuExYvL5v0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076557964186-lprbso6j7tmfg30vvf4g5pd1n0u54ui3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
